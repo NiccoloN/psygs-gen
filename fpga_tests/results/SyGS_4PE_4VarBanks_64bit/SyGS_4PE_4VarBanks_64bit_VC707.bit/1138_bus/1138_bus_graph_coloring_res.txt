@@ -1,0 +1,521 @@
+Serial opened successfully
+Command sent
+Host started
+Starting
+
+Start reading UART
+Data obtained
+Writing data on var banks...
+Writing data on acc banks...
+Data written on bram banks!
+Starting with iterations: 1000
+
+Iteration block 0
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    100
+Cumulative cycles:        634800
+
+Iteration block 1
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    200
+Cumulative cycles:        1269600
+
+Iteration block 2
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    300
+Cumulative cycles:        1904400
+
+Iteration block 3
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    400
+Cumulative cycles:        2539200
+
+Iteration block 4
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    500
+Cumulative cycles:        3174000
+
+Iteration block 5
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    600
+Cumulative cycles:        3808800
+
+Iteration block 6
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    700
+Cumulative cycles:        4443600
+
+Iteration block 7
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    800
+Cumulative cycles:        5078400
+
+Iteration block 8
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    900
+Cumulative cycles:        5713200
+
+Iteration block 9
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1000
+Cumulative cycles:        6348000
+
+[33mChecking result:[0m
+
+Remainder: 7.18305786076013930141925811767578125000000000000000000e+05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 1000 iterations
+Starting with iterations: 1000
+
+Iteration block 0
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1100
+Cumulative cycles:        6982800
+
+Iteration block 1
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1200
+Cumulative cycles:        7617600
+
+Iteration block 2
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1300
+Cumulative cycles:        8252400
+
+Iteration block 3
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1400
+Cumulative cycles:        8887200
+
+Iteration block 4
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1500
+Cumulative cycles:        9522000
+
+Iteration block 5
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1600
+Cumulative cycles:        10156800
+
+Iteration block 6
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1700
+Cumulative cycles:        10791600
+
+Iteration block 7
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1800
+Cumulative cycles:        11426400
+
+Iteration block 8
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    1900
+Cumulative cycles:        12061200
+
+Iteration block 9
+Iterations:               100 
+Cycles:                   634800 
+Cumulative iterations:    2000
+Cumulative cycles:        12696000
+
+[33mChecking result:[0m
+
+Remainder: 5.66350758958138641901314258575439453125000000000000000e+05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 98445 iterations
+Starting with iterations: 98445
+
+Iteration block 0
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    11844
+Cumulative cycles:        75185712
+
+Iteration block 1
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    21688
+Cumulative cycles:        137675424
+
+Iteration block 2
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    31532
+Cumulative cycles:        200165136
+
+Iteration block 3
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    41376
+Cumulative cycles:        262654848
+
+Iteration block 4
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    51220
+Cumulative cycles:        325144560
+
+Iteration block 5
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    61064
+Cumulative cycles:        387634272
+
+Iteration block 6
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    70908
+Cumulative cycles:        450123984
+
+Iteration block 7
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    80752
+Cumulative cycles:        512613696
+
+Iteration block 8
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    90596
+Cumulative cycles:        575103408
+
+Iteration block 9
+Iterations:               9844 
+Cycles:                   62489712 
+Cumulative iterations:    100440
+Cumulative cycles:        637593120
+
+Last iteration block
+Iterations:               5 
+Cycles:                   31740 
+Cumulative iterations:    100445
+Cumulative cycles:        637624860
+
+[33mChecking result:[0m
+
+Remainder: 1.81405289677641063462942838668823242187500000000000000e+05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 1924858 iterations
+Starting with iterations: 1924858
+
+Iteration block 0
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    292930
+Cumulative cycles:        1859519640
+
+Iteration block 1
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    485415
+Cumulative cycles:        3081414420
+
+Iteration block 2
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    677900
+Cumulative cycles:        4303309200
+
+Iteration block 3
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    870385
+Cumulative cycles:        5525203980
+
+Iteration block 4
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    1062870
+Cumulative cycles:        6747098760
+
+Iteration block 5
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    1255355
+Cumulative cycles:        7968993540
+
+Iteration block 6
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    1447840
+Cumulative cycles:        9190888320
+
+Iteration block 7
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    1640325
+Cumulative cycles:        10412783100
+
+Iteration block 8
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    1832810
+Cumulative cycles:        11634677880
+
+Iteration block 9
+Iterations:               192485 
+Cycles:                   1221894780 
+Cumulative iterations:    2025295
+Cumulative cycles:        12856572660
+
+Last iteration block
+Iterations:               8 
+Cycles:                   50784 
+Cumulative iterations:    2025303
+Cumulative cycles:        12856623444
+
+[33mChecking result:[0m
+
+Remainder: 1.80751692206664385520475946123042376711964607238769531e-02
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 732917 iterations
+Starting with iterations: 732917
+
+Iteration block 0
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2098594
+Cumulative cycles:        13321874712
+
+Iteration block 1
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2171885
+Cumulative cycles:        13787125980
+
+Iteration block 2
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2245176
+Cumulative cycles:        14252377248
+
+Iteration block 3
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2318467
+Cumulative cycles:        14717628516
+
+Iteration block 4
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2391758
+Cumulative cycles:        15182879784
+
+Iteration block 5
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2465049
+Cumulative cycles:        15648131052
+
+Iteration block 6
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2538340
+Cumulative cycles:        16113382320
+
+Iteration block 7
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2611631
+Cumulative cycles:        16578633588
+
+Iteration block 8
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2684922
+Cumulative cycles:        17043884856
+
+Iteration block 9
+Iterations:               73291 
+Cycles:                   465251268 
+Cumulative iterations:    2758213
+Cumulative cycles:        17509136124
+
+Last iteration block
+Iterations:               7 
+Cycles:                   44436 
+Cumulative iterations:    2758220
+Cumulative cycles:        17509180560
+
+[33mChecking result:[0m
+
+Remainder: 3.92255541108946513594382676792804431897820904850959778e-05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 670 iterations
+Starting with iterations: 670
+
+Iteration block 0
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758287
+Cumulative cycles:        17509605876
+
+Iteration block 1
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758354
+Cumulative cycles:        17510031192
+
+Iteration block 2
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758421
+Cumulative cycles:        17510456508
+
+Iteration block 3
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758488
+Cumulative cycles:        17510881824
+
+Iteration block 4
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758555
+Cumulative cycles:        17511307140
+
+Iteration block 5
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758622
+Cumulative cycles:        17511732456
+
+Iteration block 6
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758689
+Cumulative cycles:        17512157772
+
+Iteration block 7
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758756
+Cumulative cycles:        17512583088
+
+Iteration block 8
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758823
+Cumulative cycles:        17513008404
+
+Iteration block 9
+Iterations:               67 
+Cycles:                   425316 
+Cumulative iterations:    2758890
+Cumulative cycles:        17513433720
+
+[33mChecking result:[0m
+
+Remainder: 3.91825136731382370766998968214522847119951620697975159e-05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+New execution command sent: 2752 iterations
+Starting with iterations: 2752
+
+Iteration block 0
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2759165
+Cumulative cycles:        17515179420
+
+Iteration block 1
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2759440
+Cumulative cycles:        17516925120
+
+Iteration block 2
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2759715
+Cumulative cycles:        17518670820
+
+Iteration block 3
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2759990
+Cumulative cycles:        17520416520
+
+Iteration block 4
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2760265
+Cumulative cycles:        17522162220
+
+Iteration block 5
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2760540
+Cumulative cycles:        17523907920
+
+Iteration block 6
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2760815
+Cumulative cycles:        17525653620
+
+Iteration block 7
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2761090
+Cumulative cycles:        17527399320
+
+Iteration block 8
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2761365
+Cumulative cycles:        17529145020
+
+Iteration block 9
+Iterations:               275 
+Cycles:                   1745700 
+Cumulative iterations:    2761640
+Cumulative cycles:        17530890720
+
+Last iteration block
+Iterations:               2 
+Cycles:                   12696 
+Cumulative iterations:    2761642
+Cumulative cycles:        17530903416
+
+[33mChecking result:[0m
+
+Remainder: 3.89660891808852845926564034684247417317237704992294312e-05
+Target:    3.90061618863765088892694987698916975205065682530403137e-05
+
+Computation ended
+
+Matrix: 1138_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2761642
+Total cycles:             17530903416
+Total execution time:     350.618 s
+

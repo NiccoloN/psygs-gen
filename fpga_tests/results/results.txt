@@ -1,0 +1,739 @@
+SyGS_8PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_8PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_8PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: block_coloring
+Blocks size: 7
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         442278
+Total cycles:             1079600598
+Total execution time:     21.592 s
+
+--------------------------------------------------
+
+SyGS_8PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         447350
+Total cycles:             692945150
+Total execution time:     13.8589 s
+
+--------------------------------------------------
+
+SyGS_8PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         437756
+Total cycles:             868945660
+Total execution time:     17.3789 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add20
+Coloring: block_coloring
+Blocks size: 37
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         33130
+Total cycles:             1388643950
+Total execution time:     27.7729 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add20
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32965
+Total cycles:             1145896365
+Total execution time:     22.9179 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add20
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32987
+Total cycles:             1396933476
+Total execution time:     27.9387 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: block_coloring
+Blocks size: 19
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         7464
+Total cycles:             469142256
+Total execution time:     9.38285 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         4516
+Total cycles:             390841736
+Total execution time:     7.81683 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         5373
+Total cycles:             325421118
+Total execution time:     6.50842 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: block_coloring
+Blocks size: 7
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         799023
+Total cycles:             4639127538
+Total execution time:     92.7826 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         447344
+Total cycles:             2331556928
+Total execution time:     46.6311 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         437723
+Total cycles:             2394782533
+Total execution time:     47.8957 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add32
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         717
+Total cycles:             36271596
+Total execution time:     0.725432 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add32
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         717
+Total cycles:             40966512
+Total execution time:     0.81933 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: add32
+Coloring: block_coloring
+Blocks size: 77
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         719
+Total cycles:             39081245
+Total execution time:     0.781625 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2758811
+Total cycles:             30448997007
+Total execution time:     608.98 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: block_coloring
+Blocks size: 17
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         7239554
+Total cycles:             89676355398
+Total execution time:     1793.53 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2678725
+Total cycles:             34226069325
+Total execution time:     684.521 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: bcsstk15
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         223021
+Total cycles:             29054729838
+Total execution time:     581.095 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: bcsstk14
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         24216
+Total cycles:             1699188288
+Total execution time:     33.9838 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: block_coloring
+Blocks size: 11
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         10046740
+Total cycles:             117466484080
+Total execution time:     2349.33 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         31813
+Total cycles:             363845281
+Total execution time:     7.27691 s
+
+--------------------------------------------------
+
+SyGS_2PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         26114
+Total cycles:             256883418
+Total execution time:     5.13767 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: add20
+Coloring: block_coloring
+Blocks size: 37
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         34123
+Total cycles:             2150363214
+Total execution time:     43.0073 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: add20
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32967
+Total cycles:             2000140857
+Total execution time:     40.0028 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: add20
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32982
+Total cycles:             2248119084
+Total execution time:     44.9624 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         4516
+Total cycles:             597340352
+Total execution time:     11.9468 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         6371
+Total cycles:             765673151
+Total execution time:     15.3135 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: block_coloring
+Blocks size: 7
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         516085
+Total cycles:             5191815100
+Total execution time:     103.836 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         447350
+Total cycles:             4115172650
+Total execution time:     82.3035 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         437756
+Total cycles:             4324591524
+Total execution time:     86.4918 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2761642
+Total cycles:             59217889406
+Total execution time:     1184.36 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: block_coloring
+Blocks size: 17
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2848349
+Total cycles:             64660370649
+Total execution time:     1293.21 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2678762
+Total cycles:             60695389396
+Total execution time:     1213.91 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: bcsstk14
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         24209
+Total cycles:             3358030390
+Total execution time:     67.1606 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         31813
+Total cycles:             644308689
+Total execution time:     12.8862 s
+
+--------------------------------------------------
+
+SyGS_1PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         26105
+Total cycles:             501503155
+Total execution time:     10.0301 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add20
+Coloring: block_coloring
+Blocks size: 37
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         117178
+Total cycles:             3533151056
+Total execution time:     70.663 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add20
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32967
+Total cycles:             675230094
+Total execution time:     13.5046 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add20
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         32982
+Total cycles:             917130474
+Total execution time:     18.3426 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: bcsstk27
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         5373
+Total cycles:             167046570
+Total execution time:     3.34093 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: block_coloring
+Blocks size: 7
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         565192
+Total cycles:             1965172584
+Total execution time:     39.3035 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         447350
+Total cycles:             1248553850
+Total execution time:     24.9711 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 494_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         437756
+Total cycles:             1426646804
+Total execution time:     28.5329 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add32
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         681
+Total cycles:             17800659
+Total execution time:     0.356013 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add32
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         717
+Total cycles:             22223415
+Total execution time:     0.444468 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: add32
+Coloring: block_coloring
+Blocks size: 77
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         719
+Total cycles:             21744717
+Total execution time:     0.434894 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2761642
+Total cycles:             17530903416
+Total execution time:     350.618 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: block_coloring
+Blocks size: 17
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2779132
+Total cycles:             21107507540
+Total execution time:     422.15 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: 1138_bus
+Coloring: dependency_graph
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         2678762
+Total cycles:             19380843070
+Total execution time:     387.617 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: bcsstk15
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         223021
+Total cycles:             14751501024
+Total execution time:     295.03 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: bcsstk14
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         24216
+Total cycles:             873035232
+Total execution time:     17.4607 s
+
+--------------------------------------------------
+
+SyGS_4PE_4VarBanks_64bit
+Matrix: fs_760_2
+Coloring: graph_coloring
+
+Template frequency:       50 MHz
+Precision:                1e-11
+
+Total iterations:         26114
+Total cycles:             135113836
+Total execution time:     2.70228 s
+
+--------------------------------------------------
+

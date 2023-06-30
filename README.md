@@ -11,4 +11,3 @@ This repository contains:
 * the report of the project
 * the presentation slides of the project
 * the presentation video of the project
-* 

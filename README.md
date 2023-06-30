@@ -10,4 +10,5 @@ This repository contains:
 * the scripts to test the software implementation of parallel SyGS
 * the report of the project
 * the presentation slides of the project
-* the presentation video of the project
+
+The presentation video of the project can be found at the following link: https://youtu.be/aVdJZmJ_XEM
